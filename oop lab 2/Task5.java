@@ -3,7 +3,7 @@
 class Task5{
 	public static void main(String[] args) {
 		 
-		 int a = 9; //1001
+       int a = 9; //1001
        int b = 7; //0111
                   //1111  
        int bitwise_AND = a & b; // & 0001=1
